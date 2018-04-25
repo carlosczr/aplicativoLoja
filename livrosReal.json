@@ -1,0 +1,93 @@
+{"listarLivros":
+{
+  "masculino": [
+    {
+      "id": 1,
+      "aroma": "aromática amadeirada",
+      "genero": "Masculino",
+      "valorFisico": 299.00,
+      "valorVirtual": 299.99,
+      "valorVirtualComFisico": 299.99,
+      "marca": "Dolce&Gabbana",
+      "imagemUrl": "https://uploaddeimagens.com.br/images/001/327/784/original/dg.png?1520904647",
+      "nomePerfume": "INTENSO POUR HOMME MASCULINO EAU DE PARFUM",
+      "descricaoPerfume": "Uma moderna reinterpretação do homem Dolce&Gabbana em uma fragrância: Intenso. Intenso é uma fragrância aromática amadeirada, com notas de entrada aquáticas, manjericão e lavanda; seu diferencial vem de um acorde recém descoberto, o moepel, que provoca uma moderna interpretação do clássico tabaco. Experiencie Intenso, a icônica fragrância Dolce&Gabbana para um homem contemporâneo. Experiencie Intenso, a icônica fragrância Dolce&Gabbana para um homem contemporâneo."
+    },
+    {
+      "id": 2,
+      "aroma": "Amadeirado",
+      "genero": "Masculino",
+      "valorFisico": 199.99,
+      "valorVirtual": 199.99,
+      "valorVirtualComFisico": 199.99,
+      "marca": "Azzaro",
+      "imagemUrl": "https://uploaddeimagens.com.br/images/001/327/781/original/azzaro.png?1520904494",
+      "nomePerfume": "SILVER BLACK MASCULINO EAU DE TOILETTE",
+      "descricaoPerfume": "Fresco\n Aromático \nAmadeirado!\nCom notas de bergamota, maçã verde, coentro, cominho armênio, vetiver, patchouli, madeira de cedro e almíscar; AZZARO Silver Black traz um audacioso frescor verde e frutal.É um perfume sexy e sedutor, com alta fixação que dura o dia inteiro.\nAzzaro Silver Black reinveta a sedução. O tornará o homem clássico que toda mulher procura e ao mesmo tempo o homem moderno que toda mulher anseia.\nUSE. CONQUISTE. SEJA LEMBRADO."
+    }
+  ],
+
+  "livros": [
+    {
+      "id": 1,
+      "aroma": "aromática amadeirada",
+      "genero": "Masculino",
+      "valorFisico": 299.00,
+      "valorVirtual": 299.99,
+      "valorVirtualComFisico": 299.99,
+      "marca": "Dolce&Gabbana",
+      "imagemUrl": "https://uploaddeimagens.com.br/images/001/327/784/original/dg.png?1520904647",
+      "nomePerfume": "INTENSO POUR HOMME MASCULINO EAU DE PARFUM",
+      "descricaoPerfume": "Uma moderna reinterpretação do homem Dolce&Gabbana em uma fragrância: Intenso. Intenso é uma fragrância aromática amadeirada, com notas de entrada aquáticas, manjericão e lavanda; seu diferencial vem de um acorde recém descoberto, o moepel, que provoca uma moderna interpretação do clássico tabaco. Experiencie Intenso, a icônica fragrância Dolce&Gabbana para um homem contemporâneo. Experiencie Intenso, a icônica fragrância Dolce&Gabbana para um homem contemporâneo."
+    },
+    {
+      "id": 2,
+      "aroma": "Amadeirado",
+      "genero": "Masculino",
+      "valorFisico": 199.99,
+      "valorVirtual": 199.99,
+      "valorVirtualComFisico": 199.99,
+      "marca": "Azzaro",
+      "imagemUrl": "https://uploaddeimagens.com.br/images/001/327/781/original/azzaro.png?1520904494",
+      "nomePerfume": "SILVER BLACK MASCULINO EAU DE TOILETTE",
+      "descricaoPerfume": "Fresco\n Aromático \nAmadeirado!\nCom notas de bergamota, maçã verde, coentro, cominho armênio, vetiver, patchouli, madeira de cedro e almíscar; AZZARO Silver Black traz um audacioso frescor verde e frutal.É um perfume sexy e sedutor, com alta fixação que dura o dia inteiro.\nAzzaro Silver Black reinveta a sedução. O tornará o homem clássico que toda mulher procura e ao mesmo tempo o homem moderno que toda mulher anseia.\nUSE. CONQUISTE. SEJA LEMBRADO."
+    },
+    {
+      "id": 3,
+      "aroma": "Baunilha sensual e cativante",
+      "genero": "Feminino",
+      "valorFisico": 269.9,
+      "valorVirtual": 269.9,
+      "valorVirtualComFisico": 269.9,
+      "marca": "Dior",
+      "imagemUrl": "https://uploaddeimagens.com.br/images/001/327/785/original/dior.png?1520904710",
+      "nomePerfume": "HYPNOTIC POISON FEMININO EAU DE TOILETTE",
+      "descricaoPerfume": "Perfume Hypnotic Poison Feminino Eau de Toilette, para a mulher misteriosa e encantadora.\nA sedução magnética de Dior revelada por um perfume feminino com Baunilha sensual e cativante. Encanto felino e olhar de esmeralda, a mulher de Hypnotic Poison possui um fascínio irresistível. Mulher fatal, sabe enfeitiçar e fazer os homens sucumbir à sua sedução.\nAromático e hipnotizador, suas notas combinam amêndoa, jasmim, musgo, baunilha e almíscar."
+    },
+    {
+      "id": 4,
+      "aroma": "floral, transparente e sensual",
+      "genero": "Feminino",
+      "valorFisico": 249.9,
+      "valorVirtual": 249.9,
+      "valorVirtualComFisico": 249.9,
+      "marca": "Carolina Herrera",
+      "imagemUrl": "https://uploaddeimagens.com.br/images/001/327/783/original/ch.png?1520904566",
+      "nomePerfume": "212 FEMININO EAU DE TOILETTE",
+      "descricaoPerfume": "O perfume feminino 212 Carolina Herrera tem fragrância para a mulher moderna, o perfume de Nova York, o perfume do novo milênio.\n Cosmopolita e inovador, o nome da fragrância 212 feminino, foi inspirado no prefixo telefônico de Manhattan. Já a mulher que usa o perfume 212 Carolina Herrera é moderna, urbana, carismática, original como a cidade de Nova York. O frasco do perfume evoca o mesmo conceito artístico da fragrância, em cristal e metal fosco. Um símbolo da curiosidade e energia de uma mulher autêntica, dinâmica e independente que vive em uma grande cidade.\nA composição do perfume 212 é floral, transparente e sensual, com um início de bergamota, neróli, flor de laranjeira e mandarina. O coração é floral, composto de acordes de camélia, rosa, gardênia e lírio. As notas de base encerram com o sândalo e o almíscar brilhante.\nFresca e moderna, sem deixar de ser feminina e delicada, é uma fragrância Carolina Herrera cintilante, para aquelas que possuem um estilo de vida descontraído"
+    },
+    {
+      "id": 5,
+      "aroma": "refrescante, delicada e frutal",
+      "genero": "Feminino",
+      "valorFisico": 369.9,
+      "valorVirtual": 369.9,
+      "valorVirtualComFisico": 369.9,
+      "marca": "Lancôme",
+      "imagemUrl": "https://uploaddeimagens.com.br/images/001/327/778/original/lacome.png?1520904108",
+      "nomePerfume": "LA VIE EST BELLE FLORALE FEMININO EAU DE TOILETTE",
+      "descricaoPerfume": "La Vie est Belle Florale é a reinterpretação da assinatura icônica da Iris construída em torno da primeira Osmanthus Gourmand. Uma fragrância refrescante, delicada e frutal para uma mulher radiante. \nUma fragrância com a filosofia de vida e felicidade ou declaração universal para a beleza da vida, pois sua concentração Eau de Toilette é composta de um coração à base de pétalas e feita das mais nobre matérias-primas: Absoluto de Osmanthus, Corpo de Iris Pallida, Absoluto de Jasmim Sambac, Absoluto de Mimosa, iluminada por um sorriso de prazeres refinados e com um toque frutado."
+    }
+  ]
+}
+}
